@@ -10,14 +10,14 @@
     "clean": "gatsby clean"
   },
   "devDependencies": {
-    "gatsby": "2.20.24",
+    "gatsby": "4.25.7",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
   "dependencies": {
     "@draftbox-co/gatsby-wordpress-novela-theme": "1.0.30",
     "dotenv": "^8.2.0",
-    "gatsby": "2.20.24",
+    "gatsby": "4.25.7",
     "@draftbox-co/gatsby-plugin-crisp-chat-lazy": "^0.0.3",
     "@draftbox-co/gatsby-plugin-hotjar-lazy": "^0.0.1",
     "@draftbox-co/gatsby-plugin-olark-lazy": "^0.0.1",
